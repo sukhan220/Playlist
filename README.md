@@ -16,6 +16,7 @@ https://code.visualstudio.com/download
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US
 
 ## 6. Download This Code
+git clone https://github.com/sukhan220/Playlist.git
 
 ## 7. Open Your Terminal or CMD then run this commands
 `cd Playlist`
