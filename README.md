@@ -12,7 +12,7 @@ https://nodejs.org/en/download/
 ## 4. Then you will need an editor. You can Download Vs code
 https://code.visualstudio.com/download
 
-## 5. Install expo app your Andriod Phone
+## 5. Install expo app for your Andriod Phone
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US
 
 ## 6. Download This Code
