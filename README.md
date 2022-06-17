@@ -4,7 +4,4 @@
 https://nodejs.org/en/download/
 
 ## Install yarn 
-`
-npm install --global yarn
-
-`
+`npm install --global yarn`
